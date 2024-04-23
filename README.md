@@ -11,10 +11,11 @@ Mein Vorschlag war das ich mehrere kleine Projekte mache, allerdings wusste ich 
 Was wäre ein geeignetes Projekt für diese LP5?
 So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmieren 
 
-[x] Einen Titel in html hinzufügen 
-[ ] Einen Text in Html hinzufügen 
-[ ] Schriftarten ändern  bg
-[ ] Hintergrundfarbe bei Text ändern 
+- [ ] Titel, hinzufügen bei HTML  
+- [ ] Text hinzufügen bei HTml
+- [ ] Schriftart ändern in html
+- [ ] Hintergrundfarbe ändern bei der Website
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 # 23.4.2024
