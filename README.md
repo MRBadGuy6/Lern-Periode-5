@@ -11,7 +11,7 @@ Mein Vorschlag war das ich mehrere kleine Projekte mache, allerdings wusste ich 
 Was wäre ein geeignetes Projekt für diese LP5?
 So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmieren 
 
-[ ] Einen Titel in html hinzufügen 
+[x] Einen Titel in html hinzufügen 
 [ ] Einen Text in Html hinzufügen 
 [ ] Schriftarten ändern 
 [ ] Hintergrundfarbe bei Text ändern 
