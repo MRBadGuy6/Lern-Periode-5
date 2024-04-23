@@ -20,9 +20,9 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 ✍️ Heute habe ich angefangen die Website zu programmieren. Es ist sehr interessant, weil es was neues ist. Aufjeden fall ist es mir gelungen einen Titel und einen Text hinzuzufügen. Auch war es mal wieder toll von zu Hause aus zu arbeiten, weil ich länger auschalfen konnte. Generell finde ich es toll von zu Hause aus zu arbeiten weil es viel ruhger ist weil meine Klasse einbisschen laut ist und mich sehr schnell ablenken kann. 
 
 # 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
-✍️ Heute habe ich... (50-100 Wörter)
+- [ ] mehr text hinzufügen in html
+- [ ] weitere schriftarten austesten 
+- [ ] Hintergrundfarbe ändern bei der Website
+- [ ] Versuchen ein Bild hinzufügen 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
