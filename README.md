@@ -11,15 +11,13 @@ Mein Vorschlag war das ich mehrere kleine Projekte mache, allerdings wusste ich 
 Was wäre ein geeignetes Projekt für diese LP5?
 So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmieren 
 
-- [ ] Titel, hinzufügen bei HTML  
-- [ ] Text hinzufügen bei HTml
-- [ ] Schriftart ändern in html
-- [ ] Hintergrundfarbe ändern bei der Website
+- [x] Titel, hinzufügen bei HTML  
+- [x] Text hinzufügen bei HTml
+- [x] Schriftart ändern in html
+- [x] Hintergrundfarbe ändern bei der Website
 
-
-✍️ Heute habe ich... (50-100 Wörter)
 # 23.4.2024
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich angefangen die Website zu programmieren. Es ist sehr interessant, weil es was neues ist. Aufjeden fall ist es mir gelungen einen Titel und einen Text hinzuzufügen. Auch war es mal wieder toll von zu Hause aus zu arbeiten, weil ich länger auschalfen konnte. Generell finde ich es toll von zu Hause aus zu arbeiten weil es viel ruhger ist weil meine Klasse einbisschen laut ist und mich sehr schnell ablenken kann. 
 
 # 30.4.2024
 [ ] Erstes Arbeitspaket
