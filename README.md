@@ -13,7 +13,7 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 [x] Einen Titel in html hinzufügen 
 [ ] Einen Text in Html hinzufügen 
-[ ] Schriftarten ändern 
+[ ] Schriftarten ändern  bg
 [ ] Hintergrundfarbe bei Text ändern 
 
 ✍️ Heute habe ich... (50-100 Wörter)
