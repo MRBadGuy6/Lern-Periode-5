@@ -27,4 +27,11 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 ✍️ Heute habe weiter an meiner Website gearbeitet und habe grosse Vortschritte gemacht. Die Klasse war zum grössten Teil ruhig oder es könnte auch daran liegen das ich die ganze Zeit Musik gehört habe. Beim Bild einfügen habe ich mehrere versuche gebraucht um es einzufügen. Als ich ein zweites Bild einfügen wollte hat es dieses Bild nicht mehr angezeigt was keinen Sinn ergibt. Bei den anderen Punkten ging es wie an Schnürchen. 
 
+# 7.5.2024
+
+- [ ] Video hinzufügen 
+- [ ] Schriftgrösse ändern 
+- [ ] Mehr Text einfügen 
+- [ ] Versuchen ein zweites Bild hinzufügen
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
