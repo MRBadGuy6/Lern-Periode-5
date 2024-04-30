@@ -20,9 +20,11 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 ✍️ Heute habe ich angefangen die Website zu programmieren. Es ist sehr interessant, weil es was neues ist. Aufjeden fall ist es mir gelungen einen Titel und einen Text hinzuzufügen. Auch war es mal wieder toll von zu Hause aus zu arbeiten, weil ich länger auschalfen konnte. Generell finde ich es toll von zu Hause aus zu arbeiten weil es viel ruhger ist weil meine Klasse einbisschen laut ist und mich sehr schnell ablenken kann. 
 
 # 30.4.2024
-- [ ] mehr text hinzufügen in html
-- [ ] weitere schriftarten austesten 
-- [ ] Hintergrundfarbe ändern bei der Website
-- [ ] Versuchen ein Bild hinzufügen 
+- [x] mehr text hinzufügen in html
+- [x] weitere schriftarten austesten 
+- [x] Hintergrundfarbe ändern bei der Website
+- [x] Versuchen ein Bild hinzufügen
+
+✍️ Heute habe weiter an meiner Website gearbeitet und habe grosse Vortschritte gemacht. Die Klasse war zum grössten Teil ruhig oder es könnte auch daran liegen das ich die ganze Zeit Musik gehört habe. Beim Bild einfügen habe ich mehrere versuche gebraucht um es einzufügen. Als ich ein zweites Bild einfügen wollte hat es dieses Bild nicht mehr angezeigt was keinen Sinn ergibt. Bei den anderen Punkten ging es wie an Schnürchen. 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
