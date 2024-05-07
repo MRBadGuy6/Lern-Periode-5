@@ -25,13 +25,24 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 - [x] Hintergrundfarbe ändern bei der Website
 - [x] Versuchen ein Bild hinzufügen
 
-✍️ Heute habe weiter an meiner Website gearbeitet und habe grosse Vortschritte gemacht. Die Klasse war zum grössten Teil ruhig oder es könnte auch daran liegen das ich die ganze Zeit Musik gehört habe. Beim Bild einfügen habe ich mehrere versuche gebraucht um es einzufügen. Als ich ein zweites Bild einfügen wollte hat es dieses Bild nicht mehr angezeigt was keinen Sinn ergibt. Bei den anderen Punkten ging es wie an Schnürchen. 
+✍️ Heute habe ich weiter an meiner Website gearbeitet und habe grosse Vortschritte gemacht. Die Klasse war zum grössten Teil ruhig oder es könnte auch daran liegen das ich die ganze Zeit Musik gehört habe. Beim Bild einfügen habe ich mehrere versuche gebraucht um es einzufügen. Als ich ein zweites Bild einfügen wollte hat es dieses Bild nicht mehr angezeigt was keinen Sinn ergibt. Bei den anderen Punkten ging es wie an Schnürchen. 
 
 # 7.5.2024
 
 - [ ] Video hinzufügen 
+- [x] Schriftgrösse ändern 
+- [x] Mehr Text einfügen 
+- [x] Versuchen ein zweites Bild hinzufügen
+
+✍️ Heute habe ichweiter an meiner Website gearbeitet und mit ihrer Hilfe ist es mir gelungen ein zweites Buld hinzuzufügen. Auch habe ich weitere Bilder und Text hinzugefügt. Allerdings ist ein Felher Aufgtetreten wo die Schriftart sich verändert hat. Ich muss noch diesen Fehler beheben. Auch ist noch wichtig zu erwähnen, das mein Ladekabel den geist aufgegeben hat und ich es durch eine neue Ersetzen muss. 
+
+# 14.5.2024
+
+- [ ] Video hinzufügen 
 - [ ] Schriftgrösse ändern 
 - [ ] Mehr Text einfügen 
-- [ ] Versuchen ein zweites Bild hinzufügen
+- [ ] Hintergrundbild einfügen 
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
