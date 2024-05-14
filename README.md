@@ -34,15 +34,22 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 - [x] Mehr Text einfügen 
 - [x] Versuchen ein zweites Bild hinzufügen
 
-✍️ Heute habe ichweiter an meiner Website gearbeitet und mit ihrer Hilfe ist es mir gelungen ein zweites Buld hinzuzufügen. Auch habe ich weitere Bilder und Text hinzugefügt. Allerdings ist ein Felher Aufgtetreten wo die Schriftart sich verändert hat. Ich muss noch diesen Fehler beheben. Auch ist noch wichtig zu erwähnen, das mein Ladekabel den geist aufgegeben hat und ich es durch eine neue Ersetzen muss. 
+✍️ Heute habe ich weiter an meiner Website gearbeitet und mit ihrer Hilfe ist es mir gelungen ein zweites Buld hinzuzufügen. Auch habe ich weitere Bilder und Text hinzugefügt. Allerdings ist ein Felher Aufgtetreten wo die Schriftart sich verändert hat. Ich muss noch diesen Fehler beheben. Auch ist noch wichtig zu erwähnen, das mein Ladekabel den geist aufgegeben hat und ich es durch eine neue Ersetzen muss. 
 
 # 14.5.2024
 
-- [ ] Video hinzufügen 
-- [ ] Schriftgrösse ändern 
-- [ ] Mehr Text einfügen 
+- [x] Video hinzufügen 
+- [x] Schriftgrösse ändern 
+- [x] Mehr Text einfügen 
 - [ ] Hintergrundbild einfügen 
 
+✍️ Heute habe ich wieder an meine Website gearbeitet und habe grösse schritte gemacht. Allerdings hat sich bei einem Text die Schriftart automatisch verändert und das Video spielt sich noch nicht ab. Ich werde nächstes mal versuchen das Video im Programm einzufügen ohne das es von Youtube abrufen sollte. Ansonsten verlief der Tag sehr ruhig.
 
+# 21.5.2024 
+
+- [ ] Video hinzufügen 
+- [ ] Hintergrundfarbe anpassen
+- [ ] Mehr Text einfügen 
+- [ ] Hintergrundbild einfügen 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
