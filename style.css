@@ -1,10 +1,10 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
-}
-
-h1 
-{
     background-color: darkgreen;
+
+}
+body{
+    max-width: 800px;
 }
 
 p {
@@ -22,3 +22,8 @@ h2 {
 p {
     font-family: fantasy;
 }
+
+img {
+    width: 800px;
+}
+
