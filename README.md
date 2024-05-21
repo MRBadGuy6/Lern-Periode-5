@@ -47,9 +47,18 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 # 21.5.2024 
 
-- [ ] Video hinzufügen 
+- [x] Video hinzufügen 
+- [x] Hintergrundfarbe anpassen
+- [x] Mehr Text einfügen 
+- [x] Hintergrundbild einfügen
+
+✍️ Heute habe ich an meiner Website weitergearbeitet. Was sichtig ist anzumerken wäre, das mein Laptop wieder einen Schaden hat und ich es in der Reperatur schicken muss. Ich habe das Gefühl das ich eine Pechsträhne bseitze. Zu meiner Webiste gibt es nicht gerade viel zu sagen. Ich habe mehr Text und Bilder eingefügt auch ein Video noch oben drauf.
+
+# 28.5.2024
+
+- [ ] Links hinzufügen 
 - [ ] Hintergrundfarbe anpassen
 - [ ] Mehr Text einfügen 
-- [ ] Hintergrundbild einfügen 
+- [x] Hintergrundbild einfügen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
