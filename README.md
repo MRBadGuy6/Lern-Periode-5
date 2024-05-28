@@ -56,9 +56,18 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 # 28.5.2024
 
-- [ ] Links hinzufügen 
-- [ ] Hintergrundfarbe anpassen
-- [ ] Mehr Text einfügen 
-- [x] Hintergrundbild einfügen
+- [x] Modul 293 Aufgabe 7
+- [x] Hintergrundfarbe anpassen
+- [x] Mehr Text einfügen 
+- [x] Modul 293 Aufgabe 8
+
+✍️ Heute habe wieder an meiner Website gearbeitet und habe grosse Fortschritte gemacht. Ich habe die Farben in meiner Website angepasst und sieht einigermassen besser aus. Auch habe ich an Modul 293 gearbeitet damit ich am Mittwoch nichts mehr zu tun habe. Das bedeutet das ich am Mittwoch Nachmittag frei habe. War ein super Tag heute. 
+
+# 4.5.2024 
+
+- [ ] Link hinzufügen 
+- [ ] Textbox eventuell einen Schatten geben 
+- [ ] Schriftarten verschönern 
+- [ ] Schriftgrösse ändern 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
