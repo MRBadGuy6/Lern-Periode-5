@@ -1,14 +1,15 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    background-color: darkgreen;
+    background-color: #C32F27;
 
 }
 body{
     max-width: 800px;
+    background-color: #F0A734;
 }
 
 p {
-    background-color: blanchedalmond;
+    background-color: #A3745E;
 }
 
 h2 {
@@ -16,7 +17,7 @@ h2 {
 }
 
 h2 {
-    background-color: cornflowerblue;
+    background-color: #753742;
 }
 
 p {
@@ -24,6 +25,7 @@ p {
 }
 
 img {
-    width: 800px;
+    width: 600px;
 }
+
 
