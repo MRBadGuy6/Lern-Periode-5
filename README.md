@@ -65,9 +65,11 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 # 4.5.2024 
 
-- [ ] Link hinzufügen 
+- [x] Text bearbeiten 
 - [ ] Textbox eventuell einen Schatten geben 
-- [ ] Schriftarten verschönern 
-- [ ] Schriftgrösse ändern 
+- [x] Schriftarten verschönern 
+- [x] Schriftgrösse ändern 
+
+✍️ Heute habe wieder an meiner Website gearbeitet und sieht um einiges besser aus. Was ich auch machen wollte ist, das die Bilder zentriert sind was mir leider nicht gelugen ist. Das ich der Textbox einen schatten geben könnte ist mir auch nicht gelugen. Ich werde versuchen die Website so zu designen als ob wir in den 90er leben würden weil das auf mein Niveau wäre.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
