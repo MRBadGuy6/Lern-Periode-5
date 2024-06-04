@@ -63,7 +63,7 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 ✍️ Heute habe wieder an meiner Website gearbeitet und habe grosse Fortschritte gemacht. Ich habe die Farben in meiner Website angepasst und sieht einigermassen besser aus. Auch habe ich an Modul 293 gearbeitet damit ich am Mittwoch nichts mehr zu tun habe. Das bedeutet das ich am Mittwoch Nachmittag frei habe. War ein super Tag heute. 
 
-# 4.5.2024 
+# 4.6.2024 
 
 - [x] Text bearbeiten 
 - [ ] Textbox eventuell einen Schatten geben 
@@ -72,4 +72,10 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 ✍️ Heute habe wieder an meiner Website gearbeitet und sieht um einiges besser aus. Was ich auch machen wollte ist, das die Bilder zentriert sind was mir leider nicht gelugen ist. Das ich der Textbox einen schatten geben könnte ist mir auch nicht gelugen. Ich werde versuchen die Website so zu designen als ob wir in den 90er leben würden weil das auf mein Niveau wäre.
 
+# 11.6.2024
+
+- [ ] Bilder zentrieren  
+- [ ] Textbox eventuell einen Schatten geben 
+- [ ] Inspiration Suchen für 90er Website 
+- [ ] Text zentreiren 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
