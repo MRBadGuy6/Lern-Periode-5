@@ -78,7 +78,7 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 - [x] HTML Grundlagen aufschreiben
 - [x] BIlder dazu machen
 - [x] die ersten drei Punkte zu einem Portfolio zusammenfassen für Modul 293
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 ✍️ Heute gab es eine Planänderung. Das liegt daran weil ich mir heue vorgenommen habe an mein Portfolio für das Modul 293 zu arbeiten. Ich habe über die Grundlagen von HTML geschrieben. Das hat mir gut getan weil ich somit mein Grundwissen auffrischen konnte. Auch noch weil es mal eine Abwechslung ist. Das Portfolio habe ich auf Mahara erstellt, was nichts neues für mich ist. Wie immer war der Tag mal wieder ruhig. Aus diesem Grund lade ich heute keinen Code hoch. 
 
@@ -87,4 +87,6 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 - [ ] Bilder zentrieren  
 - [ ] Textbox eventuell einen Schatten geben 
 - [ ] Inspiration Suchen für 90er Website 
-- [ ] Text zentreiren 
+- [ ] Text zentreiren
+
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
