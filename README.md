@@ -84,9 +84,15 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 
 # 18.6.2024
 
+- [ ] Powershell Skript zu Ende schreiben
+- [ ] Testfälle schreiben
+- [ ] Entwicklerdokumentation schreiben
+
+✍️ Heute habe ich an meinem Powershell Skript gearbeitet. In genau einer Woche ist abgabe und ich habe grosse Schritte gemacht. Mir ist es gelungen das Skript zu Ende zu schreiben aber mit einer an gewissen Stellen hat mit ChatGPT geholfen und die Dokumentation zu schreiben hat auch spass gemacht weil ich wusste das ich das schlimmste heute hinter mir gebracht habe. Ich hoffe das ich nächste Woche wieder an meiner Webseite arbeiten kann. 
+
+# 25.6.2024
 - [ ] Bilder zentrieren  
-- [ ] Textbox eventuell einen Schatten geben 
-- [ ] Inspiration Suchen für 90er Website 
-- [ ] Text zentreiren
+- [ ] Textbox eventuell einen Schatten geben
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
