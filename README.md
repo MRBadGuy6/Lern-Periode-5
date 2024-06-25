@@ -91,8 +91,34 @@ So wie sie es vorgeschlagen haben werde ich versuchen einen Website zu Programmi
 ✍️ Heute habe ich an meinem Powershell Skript gearbeitet. In genau einer Woche ist abgabe und ich habe grosse Schritte gemacht. Mir ist es gelungen das Skript zu Ende zu schreiben aber mit einer an gewissen Stellen hat mit ChatGPT geholfen und die Dokumentation zu schreiben hat auch spass gemacht weil ich wusste das ich das schlimmste heute hinter mir gebracht habe. Ich hoffe das ich nächste Woche wieder an meiner Webseite arbeiten kann. 
 
 # 25.6.2024
-- [ ] Bilder zentrieren  
-- [ ] Textbox eventuell einen Schatten geben
+- [ ] Website veröffentlichen  
+- [x] Meine Website dokumentieren
+
+✍️ Heute habe ich an einer anderen Website gearbeitet, die auch mit Schlagzeug zu tun hat. Ich habe auf Github vergebens versucht meine Website zu veröffentlichen aber es hat einfach nicht funktioniert. Darum habe ich noch eine Dokumentaion über meine Websiete geschrieben und ich bin fast fertig weil ich noch dokumentieren muss wie ich die Website veröffentlicht habe. Die Website ist insgesamt gut herausgekommen. 
+
+# LA Reflexion
+
+Heute ist die letzte Atelier Lektion und aus diesem Grund muss ich jetzt eine Reflexion schreiben. 
+
+Was habe ich gelernt dieses Jahr?
+
+Ich habe gelernt wie man in C# programmiert, eine Datenbank erstellt, wie man dokumentationen erstellt, wie man eine Website erstellt und noch wie man ein dicionary erstellt.
+
+Was haben ich von der Arbeitsweise her gelernt?
+
+Ich habe gelernt das man in der Informatik nichts auswendig lernen muss weil das so gut wie unmöglich. Auch habe ich gerlernt das es besser ist wen man alleine arbeitet, weil ich viel produktiver war irgendwie.
+
+Was möchte ich nächstes Jahr anders machen?
+
+Auf jeden Fall versuche ich mehrere Projekte anzufangen weil ich ständig von anderen Modulen abgelenkt worden bin was sehr genervt hat.
+
+Was hat mir am meisten gefallen? 
+
+Am meisten hat es mir gefallen die Website mit HTML und CSS zu programmieren weil die Sprache sehr einfach zu vefstehen ist. 
+
+Was würde ich wünschen, was nächstes Jahr anders wäre?
+
+Da fällt mir nichts dazu ein. 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
